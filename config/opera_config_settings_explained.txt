@@ -951,7 +951,7 @@
 'WebServer|Enable','如果禁用，則 Opera Unite 被完全關閉',
 'WebServer|ListenToAllNetworks','監聽所有網絡',
 'WebServer|ListenToLocalNetwork','監聽本地網絡',
-'WebServer|MaxUploadRate(kBps)','最大上傳速率，單位：kBps',
+'WebServer|MaxUploadRate(kBps)','最大上傳速率，單位：KBps',
 'WebServer|Port','Web 服務器端口，默認爲 8840<br />可自定義，但不可使用其他已佔用端口',
 'WebServer|ProxyHost','運行 Opera Unite 代理的主機',
 'WebServer|ProxyPort','運行 Opera Unite 代理的主機端口',
