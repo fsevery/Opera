@@ -216,7 +216,7 @@
 'Java|SecurityPolicy','Java 安全策略文檔路徑，默認設定依賴於系統',
 'Link|Color','使用不同顏色標識不同狀態的鏈接',
 'Link|Expiry','已訪問鏈接的過期時間，單位：天',
-'Link|Expiry（Hours）','已訪問鏈接的過期時間，單位：小時',
+'Link|Expiry(Hours)','已訪問鏈接的過期時間，單位：小時',
 'Link|Frame','對鏈接使用邊框',
 'Link|StrikeThrough','對已訪問鏈接添加刪除線',
 'Link|Underline','對鏈接添加下划線',
