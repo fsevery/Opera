@@ -840,7 +840,7 @@
 'UserPrefs|SpeedDialState','快速撥號顯示方式<br />0 表示不顯示快速撥號（在右下角顯示激活按鈕）<br />1 表示顯示快速撥號<br />2 表示顯示快速撥號，但禁止修改（比如帶 "-kioskspeeddial" 參數的 kiosk 模式）<br />3 表示不顯示快速撥號（比如 kiosk 模式）',
 'UserPrefs|SpeedDialZoomLevel','快速撥號縮放比例',
 'UserPrefs|Spellcheckenabledbydefault','啓用拼寫檢查',
-'UserPrefs|StartupType','啓動方式<br />0 表示打開保存的會話<br />2 表示以首頁啓動<br />3 表示繼續上次會話<br />4 表示打開快速撥號<br />5 表示打開啟動動畫看',
+'UserPrefs|StartupType','啓動方式<br />0 表示打開保存的會話<br />2 表示以首頁啓動<br />3 表示繼續上次會話<br />4 表示打開快速撥號<br />5 表示打開啟動對話框',
 'UserPrefs|StatusBarAlignment','狀態欄位置<br />0 表示關閉<br />1 表示左側<br />2 表示頂部<br />3 表示右側<br />4 表示底部',
 'UserPrefs|StrategyOnApplicationCache','離線應用快取策略',
 'UserPrefs|StyledFirstUpdateTimeout','樣式首次更新超時時間，單位：秒',
