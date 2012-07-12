@@ -226,6 +226,7 @@
 'Mail|DefaultMailSortingAscending','默認使用升序排序',
 'Mail|ExtAppParamSpaceSubst','當使用外部郵件客戶端時使用空格替換未定義參數',
 'Mail|ExternalApplication','外部郵件客戶端路徑',
+'Mail|FitToWidthMessages','顯示郵件時啟用適合寬度',
 'Mail|Handler','指定郵件客戶端<br />1 使用 Opera<br />2 使用外部郵件客戶端<br />3 使用系統默認郵件客戶端',
 'Mail|LoadMailDatabasesAsynchronously','異步加載郵件數據庫',
 'Mail|MailDatabaseConsistencyCheckTime','郵件數據庫一致性檢查的時間戳',
