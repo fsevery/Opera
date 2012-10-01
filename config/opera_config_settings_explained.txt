@@ -68,7 +68,7 @@
 'Colors|Color.H5','H5 標題顏色',
 'Colors|Color.H6','H6 標題顏色',
 'Colors|Color.Normal','普通文本顏色',
-'Colors|Color.PRE','預格式化文本（即 < pre > 頁籤中的文本） 顏色',
+'Colors|Color.PRE','預格式化文本（即 &lt;pre&gt; 頁籤中的文本） 顏色',
 'Colors|EditBackground','大多數可編輯文本域的背景色',
 'Colors|HighlightedBackground','高亮文本背景色（處於焦點）',
 'Colors|HighlightedBackgroundUnfocused','高亮文本背景色（不處於焦點）',
