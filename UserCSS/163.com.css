@@ -1,1 +1,67 @@
-/Users/Csineneo/Dropbox/UserCSS/163.com.css
+/* Homepage */
+#float-menu, #hotpop, #tieArea, 
+.ntes-passport-nav-bg, .ntes-nav, .top_search, .weather, .hot-tags, .top-gg-area, .ggarea, .ggtext, .gg-mod, .footerbg, .nav-bottom, .attlogo, 
+span[class^="blank"], iframe, #body h1
+	{ display: none !important; }
+	
+* {
+	background-image: none !important;	
+}
+
+a {
+	text-decoration: none !important;
+	}
+
+body {
+	background: #f5f5f5 !important;	
+}
+
+.wrapperbg {
+	height: 40px !important;
+	margin-bottom: 10px !important;	
+}
+
+.title-bar {
+	margin-top: 10px !important;	
+}
+
+/* Channel */
+#feedback, 
+.v-nav, .channel-end, .tie-post
+	{ display: none !important; }
+	
+/* News */
+#ytsearch_form, #wb-wraper, #endpageHotTags, #endpage_tab, 
+.path, .info, .colR, .colEnd, .END_nav_, .bg_endPage, .shareArea, .c-weiBo-display, .icon, .endContentBox, .demoBox, .titleBar1, 
+span[class^="gg"], #endText div .left, #endText div .right
+	{ display: none !important; }
+	
+h1 {
+	text-align: center;	
+}
+	
+.endArea {
+	width: 640px !important;
+	padding: 0 45px !important;
+	background: transparent !important;	
+}
+
+.endMore {
+	background: transparent !important;	
+}
+	
+/* Gallery */
+#nphLayoutGG, 
+.NTES-nav, .nph_chn, .foot, .nph_search_panel, .nph_photo_layout, 
+.nph_photo_ctrl ul li:first-child
+	{ display: none !important; }
+	
+/* View */
+.colLM {
+	width: 960px !important;
+	background: #f5f5f5 !important;
+}
+
+/* Game */
+.nav-s
+	{ display: none !important; }
