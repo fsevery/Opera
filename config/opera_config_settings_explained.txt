@@ -583,6 +583,7 @@
 'UserPrefs|DirectHistoryFile','地址欄輸入歷史記錄（typed_history.xml）文檔路徑',
 'UserPrefs|DirectoryImage','資料夾圖片（folder.gif）路徑',
 'UserPrefs|DisableBookmarkImport','禁止在首次運行時導入書簽，可在安裝包中設定以防止導入當前默認瀏覽器的書簽',
+'UserPrefs|DisableHighlightUponOutline','禁用高亮元素的 outline 屬性',
 'UserPrefs|DisableClientRefreshToSameLocation','停用 Meta 頁籤刷新同一頁面',
 'UserPrefs|DisableOperaPackageAutoUpdate','停用 Opera 自動更新',
 'UserPrefs|DisabledCookieState','上次啓用 cookie 時的設定',
