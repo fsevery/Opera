@@ -245,6 +245,7 @@
 'Mail|MessageWidthListOnLeft','當郵件列表在左側時郵件顯示寬度，單位：字',
 'Mail|PaddinginComposeWindow','郵件編輯窗口是否使用内邊距，默認使用',
 'Mail|ShowDefaultMailClientDialog','顯示設定默認郵件客户端對話框',
+'Mail|SplitUpThreadWhenSubjectChanged','當主題變更時分割郵件對話',
 'Mail|WebmailAddress','線上郵件服務地址',
 'Mail|WebmailService','線上郵件服務，具體值視 webmailproviders.ini 文檔而定',
 'MailBox|AddressFile','聯繫人（contacts.adr）文檔路徑',
