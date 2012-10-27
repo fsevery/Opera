@@ -262,6 +262,7 @@
 'Network|BlockIDNAInvalidDomains','過濾 IDNA 無效域名',
 'Network|CheckLocalHostName','在自動補全網址之前查找局域網計算機',
 'Network|DisableHTTPOPTIONSrequests','禁止發送「options」header 給代理伺服器',
+'Network|DNSPrefetching','啟用 DNS 預取<br />當滑鼠懸停在連結上時查詢該連結的 DNS 記錄',
 'Network|EnableContentBlocker','啓用內容阻止功能',
 'Network|EnableCookiesDNSCheck','啓用 Cookie DNS 檢查',
 'Network|EnableCookiesV2','啓用 Cookie V2 支援，RFC2965',
