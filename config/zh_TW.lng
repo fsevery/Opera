@@ -1,15 +1,15 @@
 ; Opera language file version 2.0
 ; Copyright © 1995-2012 Opera Software ASA. All rights reserved.
 ; Translated by Jack Wu <sjackwu@yahoo.com> and TsungChe (Jack) Wu <sjackwu@yahoo.com>
-; Created on 2012-11-05 11:08
-; Modified by Csineneo, on 2012-11-06 12:03:22 UTC
+; Created on 2012-11-16 11:49
+; Modified by Csineneo, on 2012-11-21 05:31:22 UTC
 [Info]
 Language="zh-tw"
 LanguageName="繁體中文"
 Charset="utf-8"
 Direction=0
-Build.Mac=1652
-Version.Mac=12.10
+Build.Mac=1661
+Version.Mac=12.11
 DB.version=1046
 
 [Translation]
