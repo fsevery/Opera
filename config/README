@@ -1,9 +1,9 @@
-zh_TW.lng 是帶有 opera:config 中文釋義的正體中文語言包，基於 Mac 版 Opera 12.11 官方正體中文語言包修改，支持全平臺，理論上向下兼容。
+zh_TW.lng 是帶有 opera:config 中文釋義的正體中文語言包，基於 Mac 版 Opera 12.12 官方正體中文語言包修改，支持全平臺，理論上向下兼容。
 zh_CN.lng 是基於 zh_TW.lng 自動生成的簡體中文語言包。 
 
 網頁版請訪問： https://tofu.im/config/
 
 測試版本：
-Opera 12.11.1661 for Mac OS X
+Opera 12.12.1707 for Mac OS X
 Opera 12.11.1661 for Ubuntu
 Opera 12.11.1661 for Windows

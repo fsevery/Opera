@@ -1,72 +1,64 @@
-/* Homepage */
-#float-menu, #hotpop, #tieArea, 
-.ntes-passport-nav-bg, .ntes-nav, .top_search, .weather, .hot-tags, .top-gg-area, .ggarea, .ggtext, .gg-mod, .footerbg, .nav-bottom, .attlogo, .ntes-wrapper, 
-span[class^="blank"], iframe, #body h1
-	{ display: none !important; }
-	
-* {
-	background-image: none !important;	
+/* common */
+.N-nav, .N-nav-channel, .gg-mod, .ggarea, .top-gg-area, .gg200x300, .attlogo, .top_search, .weather, .hot-tags, .footerbg, .N-nav-bottom, .media-area, .new,
+#float-menu, #instant-news, #ssid1, #body > .area, 
+[style*="fixed"], [name="top"], 
+iframe, #body h1 {
+	display: none !important;
 }
-
-a {
-	text-decoration: none !important;
-	}
 
 body {
-	background: #f5f5f5 !important;	
 	padding: 0 !important;
+	background: #f0f0f0 !important;
 }
 
-.ntes-wrap {
-	margin-top: 0 !important;
+#body {
+	background: #fff !important;
 }
 
-.wrapperbg {
+#wrapperbgId {
 	height: 40px !important;
-	margin-bottom: 10px !important;	
 }
 
-.title-bar {
-	margin-top: 10px !important;	
+/* channel */
+.ntes-nav, .footer-links, .nav-bottom, .imgText-widget-3 
+{
+	display: none !important;
 }
 
-/* Channel */
-#feedback, 
-.v-nav, .channel-end, .tie-post
-	{ display: none !important; }
-	
-/* News */
-#ytsearch_form, #wb-wraper, #endpageHotTags, #endpage_tab, 
-.path, .info, .colR, .colEnd, .END_nav_, .bg_endPage, .shareArea, .c-weiBo-display, .icon, .endContentBox, .demoBox, .titleBar1, 
-span[class^="gg"], #endText div .left, #endText div .right
-	{ display: none !important; }
-	
-h1 {
-	text-align: center;	
-}
-	
-.endArea {
-	width: 640px !important;
-	padding: 0 45px !important;
-	background: transparent !important;	
+/* old channel */
+.NTES-nav, .i_mobi, .cooperation, .channel-end, .foot, 
+body > .channel {
+	display: none !important;
 }
 
-.endMore {
-	background: transparent !important;	
-}
-	
-/* Gallery */
-#nphLayoutGG, 
-.NTES-nav, .nph_chn, .foot, .nph_search_panel, .nph_photo_layout, 
-.nph_photo_ctrl ul li:first-child
-	{ display: none !important; }
-	
-/* View */
-.colLM {
-	width: 960px !important;
-	background: #f5f5f5 !important;
+/* content */
+.ep-header, .ep-content-side, .ep-fixed-bar, .ep-returnlink, .extra-tag, .mod-tab, .tie-area, .ep-tie-simple, .subfoot-wrap, .ep-source, .ep-summary, 
+.ep-h1 + .clearfix {
+	display: none !important;
 }
 
-/* Game */
-.nav-s
-	{ display: none !important; }
+#h1title {
+	text-align: center !important;
+}
+
+.ep-content, .ep-content-main {
+	padding: 0 !important;
+	width: 600px !important;
+	background: #f0f0f0 !important;
+}
+
+.ep-content-bg {
+	background-image: none !important;
+}
+
+/* photoview */
+.NTES_bg_, .nph_chn, .nph_search_panel, .ntshare-wrap, .wb-article-sharewraper, .nph_layout_bg, .nph_photo_layout, .nph_set_forward,  
+#galleryRelat, #nhp_poparea, 
+.nph_photo_ctrl ul li:first-child {
+	display: none !important;
+}
+
+/* focus & money & lady & fashion & discovery */
+.titleBar-coop, .friendLink, .atleLP, .baikepost, .lady-emotional, .lady_extra, .fashion_extra, .demoBox {
+	display: none !important;
+}
